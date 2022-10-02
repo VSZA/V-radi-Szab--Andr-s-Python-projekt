@@ -1,0 +1,19 @@
+email=boranor131@simdpi.com
+password=Password2021
+keresett eszköz=egér
+eszköz paraméter (1db)=vezeték nélküli
+recordok száma=51
+rendezés ("x"-el jelöld)
+    Alapértelmezett=
+    Olcsó->Drága=
+    Drága->Olcsó=
+    Értékelés=x
+    Név (A-z)=
+Ár megadása
+    min=8000
+    max=50000
+--------------------------------------------------
+#A keresett eszköz ajánlott, hogy az árukeresőn létező kategória vagy alkategória legyen a minél potnosabb eredmények érdekében (pl: fejhallgató, hűtő, egér)
+#Csak 1 rendezésési feltételhez tegyen "x"-et
+#Az árat space-ek nélkül, és pénzem megjelölés nélkül kell megadni
+#A vonal fölé a kért információkon kívül NE írj semmit

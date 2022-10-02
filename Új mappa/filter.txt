@@ -1,0 +1,18 @@
+email=boranor131@simdpi.com
+password=Password2021
+keresett eszköz=fejhallgató
+eszköz paraméter (1db)=stereo
+recordok száma=42
+rendezés ("x"-el jelöld)
+    Alapértelmezett=
+    Olcsó->Drága=
+    Drága->Olcsó=
+    Értékelés=x
+    Név (A-z)=
+Ár megadása
+    min=15000
+    max=60000
+
+#A keresett eszköz ajánlott, hogy az árukeresőn létező kategória vagy alkategória legyen a minél potnosabb eresmények érdekében (pl: fejhallgató, hűtő, egér)
+#Csak 1 rendezésési feltételhez tegyen "x"-et
+#Az árat space-ek nélkül, és pénzem megjelölés nélkül kell megadni
